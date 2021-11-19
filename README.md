@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ErfanRzt
-- 👀 I’m interested in AI and Robotics. I am also thrilled about literature and musics.
+- 👀 I’m interested in Robotics; Vision and Control. I am also thrilled about literature and musics.
 - 🌱 I’m currently learning Machine Learning and Embedded Systems.
 - 💞️ I’m looking to collaborate on self-aware machines like autonomous cars.
 - 📫 How to reach me: erfrzt@gmail.com
