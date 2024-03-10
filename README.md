@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ErfanRzt
-- 👀 I’m interested in Robotics; Vision and Control. I am also thrilled about Literature and Music.
-- 🌱 I’m currently learning Machine Learning and ROS programming.
-- 💞️ I’m looking to collaborate on AGVs and AMRs.
-- 📫 How to reach me: linkedin.com/in/erfan-riazati
+- 👀 I’m interested in Robotics and Autonomous Systems. I am also thrilled about Philosophy, Literature, and Music.
+- 🌱 I’m currently learning Decision Making Algorithms, Learning Systems, and Robotics Programming.
+- 💞️ I’m looking to collaborate on Autonomous Mobile Robots, Reinforcement Learning, and ROS-based Systems.
+- 📫 How to reach me: erfan_riazati@elec.iust.ac.ir | linkedin.com/in/erfan-riazati
 
 <!---
 ErfanRzt/ErfanRzt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
