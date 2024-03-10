@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ErfanRzt
+- 👋 Hi, I’m @ErfanRzt and currently I am pursuing my bachelor's in Control Engineering at IUST.
 - 👀 I’m interested in Robotics and Autonomous Systems. I am also thrilled about Philosophy, Literature, and Music.
 - 🌱 I’m currently learning Decision Making Algorithms, Learning Systems, and Robotics Programming.
 - 💞️ I’m looking to collaborate on Autonomous Mobile Robots, Reinforcement Learning, and ROS-based Systems.
